@@ -1,0 +1,1 @@
+Don't forget to run npm install on the root folder to instal node_modules
